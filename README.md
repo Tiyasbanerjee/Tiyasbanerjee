@@ -1,25 +1,67 @@
-<h1 align="center">Hi 👋, I'm Tiyas Banerjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm **Tiyas Banerjee** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyasbanerjee&label=Profile%20views&color=0e75b6&style=flat" alt="tiyasbanerjee" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/tiyasbanerjee?label=Followers&style=social)](https://github.com/tiyasbanerjee)
+[![Lifetime Commits](https://img.shields.io/badge/Lifetime_Commits-Yes-brightgreen)](https://github.com/tiyasbanerjee)
+[![Private Commits](https://img.shields.io/badge/Private_Commits-Enabled-yellow)](https://github.com/tiyasbanerjee)
+[![Theme](https://img.shields.io/badge/Theme-Dark-informational)](https://github.com/tiyasbanerjee)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiyasbanerjee" alt="tiyasbanerjee" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## About Me
 
-- 📫 How to reach me **tiyasbanerjee45@gmail.com**
+I'm **Tiyas Banerjee** (he/him), a 16-year-old high school student with a passion for mathematics and automation. Currently studying at **Biruha Sarat Chandra Uchha Vidyalaya** in West Bengal, India, I'm an aspiring researcher eager to dive into hands-on experiments. I enjoy exploring deep learning and AI applications—always curious and driven by the thrill of solving problems and learning new skills. Whether it's working on small research projects or collaborating on innovative ideas, I am here to grow, contribute, and learn together.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/u/tiyasbanerjee990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tiyasbanerjee990/" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently studying in high school and learning about deep learning, AI, and automation.
+- 🤝 I’m looking to collaborate with people interested in mathematics and AI research.
+- 🌱 I’m continuously learning Python, Linux, and other tech skills.
+- 💬 I can communicate in English, Hindi, and Bengali (my mother tongue).
+- 🎨 I love experimenting with creative projects and believe that innovation stems from passion and persistence.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiyasbanerjee&show_icons=true&locale=en&layout=compact" alt="tiyasbanerjee" /></p>
+## 🛠️ Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiyasbanerjee&show_icons=true&locale=en" alt="tiyasbanerjee" /></p>
+- **Programming:** Python
+- **Operating Systems:** Linux (beginner level)
+- **Field of Interest:** Mathematics, Artificial Intelligence, Deep Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiyasbanerjee&" alt="tiyasbanerjee" /></p>
+---
 
+## 🌟 Collaboration & Projects
+
+I am passionate about connecting with like-minded individuals and teams who share an interest in mathematics and AI. Whether you're working on:
+- Small-scale research projects  
+- Innovative AI applications  
+- Hands-on experiments in deep learning  
+
+I welcome the opportunity to collaborate, share ideas, and create something exciting together!
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** [tiyasbanerjee49@gmail.com](mailto:tiyasbanerjee49@gmail.com)
+- **Instagram:** [@tiyas_banerjee](https://www.instagram.com/tiyas_banerjee/?__pwa=1)
+- **Mastodon:** [@Tiyas_Banerjee](https://mastodon.social/@Tiyas_Banerjee)
+- **GitHub:** [Tiyasbanerjee](https://github.com/tiyasbanerjee)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Tiyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiyasbanerjee&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiyasbanerjee&layout=compact&theme=dark)
+
+> **Note:** The repository statistics capture my ongoing journey in tech. Keep an eye out for updates as I continue to explore new frontiers!
+
+---
+
+## 🖼️ Aesthetic Customizations
+- **Theme:** Dark mode enhances the overall look with a modern vibe.
+- **Border:** Crisp borders to keep the layout neat and structured.
+- **Lifetime Commits:** An ongoing record of my contributions.
+- **Private Commits:** Reflecting the personal projects and contributions kept private.
+
+---
+
+Feel free to fork, star, and contribute or reach out if you'd like to collaborate on projects! Let's build something amazing together! 🚀
