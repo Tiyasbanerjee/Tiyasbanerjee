@@ -2,7 +2,10 @@
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tiyasbanerjee)](https://github.com/tiyasbanerjee)  
 [![GitHub Followers](https://img.shields.io/github/followers/tiyasbanerjee?label=Followers&style=flat)](https://github.com/tiyasbanerjee)  
-[![Follow on Mastodon](https://img.shields.io/badge/Mastodon-@Tiyas_Banerjee-blue)](https://mastodon.social/@Tiyas_Banerjee)
+[![Follow on Mastodon](https://img.shields.io/badge/Mastodon-@Tiyas_Banerjee-blue)](https://mastodon.social/@Tiyas_Banerjee)  
+[![Top Languages](https://img.shields.io/github/languages/top/tiyasbanerjee?color=blue&style=flat)](https://github.com/tiyasbanerjee)  
+[![GitHub Stars](https://img.shields.io/github/stars/tiyasbanerjee?style=flat&color=yellow)](https://github.com/tiyasbanerjee/stargazers)  
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/tiyasbanerjee?style=flat&color=green)](https://github.com/tiyasbanerjee)
 
 > *Meaning is sought in patterns, in trials, and in understanding.  
 Work speaks, mistakes teach, and every small discovery adds to what can be known.* ✨
@@ -35,11 +38,20 @@ Every experiment is a conversation with the unknown. Failures offer lessons; obs
 
 ## 🔍 Current Explorations
 
-- Investigating how AI and machine learning can reveal unseen structures  
+- Investigating AI and ML to reveal unseen structures  
 - Observing patterns in behavior, probability, and adaptive systems  
 - Deepening mathematical and statistical intuition to guide research  
-- Iterating computational methods to improve precision and reproducibility  
+- Iterating computational methods for precision and reproducibility  
 - Documenting insights for reflection, comparison, and long-term understanding
+
+---
+
+## ⚖️ Work Ethos
+
+- Precision over ornamentation  
+- Questions before tools  
+- Experiments before assumptions  
+- Humility in interpretation, rigor in method
 
 ---
 
@@ -47,9 +59,9 @@ Every experiment is a conversation with the unknown. Failures offer lessons; obs
 
 > “AI may be one of the deepest mysteries of humanity.” 🤔
 
-Research is not a career; it is a path to understanding and creation.  
+Research is not a job. It is a path to understanding and creation.  
 The purpose is to generate ideas, methods, and insights that endure.  
-Work is measured by clarity, usefulness, and contribution to knowledge.  
+Work is measured by clarity, usefulness, and contribution to knowledge.
 
 - To uncover intelligence, patterns, and principles behind learning  
 - To create meaningful systems, experiments, and tools from observation  
@@ -60,18 +72,23 @@ Work is measured by clarity, usefulness, and contribution to knowledge.
 
 ---
 
-## ⚖️ Work Ethos
+## 📊 GitHub Stats
 
-- Precision over ornamentation  
-- Questions before tools  
-- Experiments before assumptions  
-- Humility in interpretation, rigor in method  
+[![Tiyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiyasbanerjee&theme=dark&show_icons=true&count_private=true)](https://github.com/tiyasbanerjee)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiyasbanerjee&theme=dark&layout=compact)](https://github.com/tiyasbanerjee)
+
+---
+
+## 📈 Activity & Contribution Graphs
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tiyasbanerjee&theme=react-dark)](https://github.com/tiyasbanerjee)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiyasbanerjee&theme=dark)](https://git.io/streak-stats)  
 
 ---
 
 ## 🤝 Contact & Collaboration
 
-Engagement is welcome from those who share curiosity, rigor, and a desire to explore.  
+Open to those who share curiosity, rigor, and a desire to explore.  
 Collaboration is valued when it deepens insight and challenges thinking.
 
 📧 [tiyasbanerjee49@gmail.com](mailto:tiyasbanerjee49@gmail.com)  
