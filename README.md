@@ -33,8 +33,8 @@ Curiosity drives every experiment — failures are just steps toward understandi
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tiyas Banerjee)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiyas_banerjee)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tiyas Banerjee)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Tiyas_Banerjee-c4s)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiyasbanerjee49@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tiyas_Banerjee-c4s)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](gmail:tiyasbanerjee49@gmail.com)
 
 ---
 
