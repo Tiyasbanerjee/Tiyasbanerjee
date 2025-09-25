@@ -1,9 +1,9 @@
 ![Tiyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiyasbanerjee&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiyasbanerjee&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tiyasbanerjee&theme=tokyonight)
-![Repo Count](https://img.shields.io/badge/Repositories-{{total}}-blue?style=flat&logo=github)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Tiyasbanerjee&color=blue)
-![Digital Mind Banner](https://link-to-your-image.com/banner.png)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tiyasbanerjee&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 ![AI Badge](https://img.shields.io/badge/AI-Exploration-blue?style=flat&logo=brain)
 
