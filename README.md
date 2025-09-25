@@ -23,23 +23,40 @@ Every experiment is a conversation with the unknown. Failures offer lessons; obs
 
 ---
 
-## 🎯 Research Focus & Goals
+## 🎯 Skills & Research Strengths
 
-- Exploring intelligence, reasoning, and adaptive behaviour in systems 🤖  
-- Finding and understanding patterns in mathematics and statistics 📐  
-- Designing experiments to test hypotheses and reveal underlying principles 💡  
-- Building tools and environments that allow careful, repeatable study 🐧  
-- Recording, analyzing, and refining results so knowledge can grow 📑
+- **Programming & Computational Thinking:** Crafting systems to explore ideas and model phenomena  
+- **Mathematics & Statistics:** Revealing patterns, structures, and insights in complex data  
+- **Artificial Intelligence & Machine Learning:** Designing experiments to understand learning and adaptation  
+- **Linux & Computational Environments:** Building robust setups for research and experimentation  
+- **Experimentation & Analysis:** Systematic investigation, documentation, and refinement of ideas  
 
 ---
 
 ## 🔍 Current Explorations
 
 - Investigating how AI and machine learning can reveal unseen structures  
-- Observing patterns in behavior and probability, learning from repeated trials  
-- Strengthening mathematical and statistical understanding to guide research  
+- Observing patterns in behavior, probability, and adaptive systems  
+- Deepening mathematical and statistical intuition to guide research  
 - Iterating computational methods to improve precision and reproducibility  
 - Documenting insights for reflection, comparison, and long-term understanding
+
+---
+
+## 🌌 Vision & Purpose
+
+> “AI may be one of the deepest mysteries of humanity.” 🤔
+
+Research is not a career; it is a path to understanding and creation.  
+The purpose is to generate ideas, methods, and insights that endure.  
+Work is measured by clarity, usefulness, and contribution to knowledge.  
+
+- To uncover intelligence, patterns, and principles behind learning  
+- To create meaningful systems, experiments, and tools from observation  
+- To explore, document, and share discoveries with care and integrity  
+- To leave behind understanding, not noise  
+
+> *Because a life without meaning is truly meaningless.*
 
 ---
 
@@ -48,27 +65,13 @@ Every experiment is a conversation with the unknown. Failures offer lessons; obs
 - Precision over ornamentation  
 - Questions before tools  
 - Experiments before assumptions  
-- Humility in interpretation, rigor in method
-
----
-
-## 🌌 Vision
-
-> “AI may be one of the deepest mysteries of humanity.” 🤔
-
-Research is not a job. It is a path to understanding.  
-The purpose is to produce ideas and methods that can be shared, verified, and built upon.  
-The goal is clarity, insight, and meaningful contribution.
-
-- To reveal structure where it is hidden  
-- To separate signal from noise  
-- To leave behind tools, methods, and observations that endure
+- Humility in interpretation, rigor in method  
 
 ---
 
 ## 🤝 Contact & Collaboration
 
-Open to those who share curiosity, rigor, and a desire to explore.  
+Engagement is welcome from those who share curiosity, rigor, and a desire to explore.  
 Collaboration is valued when it deepens insight and challenges thinking.
 
 📧 [tiyasbanerjee49@gmail.com](mailto:tiyasbanerjee49@gmail.com)  
