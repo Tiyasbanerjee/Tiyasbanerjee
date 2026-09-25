@@ -1,3 +1,9 @@
-# 👋 Welcome to My GitHub — I’m Tiyas 😊  
-*“Learning is not a race.”*
+# 
+
+<div align="center">
+  <h1> Welcome😇😇😇😇😇  to 🙀Git😱 of my Hub😽😽</h1>
+  <h2>Learning is not a race.</h2>
+  
+</div>
+
 
